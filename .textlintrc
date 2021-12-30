@@ -6,12 +6,7 @@
         "space": "always"
       }
     },
-    "preset-ja-technical-writing": true,
+    "preset-ja-technical-writing": false,
     "spellcheck-tech-word": true
-  },
-  "plugins": {
-    "@textlint/text": {
-      "extentions": [".txt"]
-    }
   }
 }
